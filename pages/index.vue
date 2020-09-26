@@ -3,6 +3,8 @@
     <Item 
       v-for="work in works" 
       :key="work.sys.id"
+
+      :work="work"
     />
   </div>
 </template>
