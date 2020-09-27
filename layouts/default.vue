@@ -75,8 +75,8 @@ main {
   max-width: 550px;
 }
 .photo {
-  min-width: 4rem; 
-  min-height: 4rem;
+  min-width: 8rem; 
+  min-height: 8rem;
   background-image: url(~static/icon.jpg);
   }
 button:focus {
