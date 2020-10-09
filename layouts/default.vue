@@ -8,7 +8,7 @@
          <div class="bg-center bg-cover w-16 h-16 mr-2 rounded-full shadow photo"></div>
          <div>
            <h1 class="font-bold">Masa</h1>
-           <p class="text-xs text-justify">駆け出しエンジニアのMasaです。<br>よろしくお願いします！</p>
+           <p class="text-xs text-justify">駆け出しエンジニアのMasaです。<br>よろしくお願いします!！</p>
          </div>
        </div>
        <div class="flex justify-around mt-5 text-xs">
